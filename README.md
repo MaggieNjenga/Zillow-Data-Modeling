@@ -27,14 +27,16 @@ Open Phase 4 Group 9.ipynb in the Jupyter interface.
 Execute the cells in the notebook to preprocess the data, build and evaluate the ARIMA model, and view the recommendations.
 
 # Features
-Data Preprocessing: Handling missing values, dropping columns, filling columns in preparation of modeling.
+## Data Preprocessing: 
+Handling missing values, dropping columns, filling columns in preparation of modeling.
 
-EDA and Visualizations: Univariate Analysis, Bivariate Analysis, Handling Outliers.
+## EDA and Visualizations: 
+Univariate Analysis, Bivariate Analysis, Handling Outliers.
 
-ARIMA Model Development: Stationarity check and Differencing, Building an ARIMA model for time series forecasting of real estate prices.
+## ARIMA Model Development: 
+Stationarity check and Differencing, Building an ARIMA model for time series forecasting of real estate prices.
 
-Evaluation: 
-
+## Evaluation: 
 Model Summary The SARIMAX model was applied to the real estate price data, and the results are summarized below:
 
 Model: ARIMA(1, 2, 1)
@@ -80,8 +82,7 @@ Risk Assessment:
 
 Volatility analysis suggests that while some high-value areas are riskier, they also offer higher returns. More stable areas provide safer investment options with moderate returns.
 
-Investment Recommendations: 
-
+## Investment Recommendations: 
 Diversified Investment:
 
 Invest in a diversified portfolio that includes both high-growth, high-volatility areas and stable, moderate-growth areas.
