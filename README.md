@@ -3,7 +3,9 @@ This project aims to determine the top 5 best zip codes for real estate investme
 
 # Table of Contents
 Installation
+
 Usage
+
 Features
 
 # Installation
