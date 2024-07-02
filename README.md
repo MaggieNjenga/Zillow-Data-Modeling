@@ -26,6 +26,9 @@ Execute the cells in the notebook to preprocess the data, build and evaluate the
 
 # Features
 Data Preprocessing: 
-ARIMA Model Development: 
+
+ARIMA Model Development:
+
 Evaluation:
+
 Investment Recommendations: 
