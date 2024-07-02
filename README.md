@@ -26,6 +26,57 @@ Open Phase 4 Group 9.ipynb in the Jupyter interface.
 ## Run the cells:
 Execute the cells in the notebook to preprocess the data, build and evaluate the ARIMA model, and view the recommendations.
 
+# Project Overview
+In this project, we aim to assist Zillow real-estate investment firm in identifying the top 5 zip codes for investment based on historical housing data from Zillow. The firm seeks to maximize returns by strategically investing in areas with high potential for property value appreciation over the next few years. Our analysis will leverage time series forecasting techniques to predict future property prices and recommend the most promising zip codes for investment.
+
+# Business Problem
+Zillow investment firm faces the challenge of selecting the most lucrative zip codes for investment amidst fluctuating real estate markets. By utilizing historical data and advanced analytics, our goal is to provide actionable insights taking into account:
+
+Profit potential: Expected price appreciation and potential rental income.
+
+Risk: Volatility and stability of the price forecasts.
+
+Time horizon: Appropriate time frame for the investment (e.g., short-term, long-term).
+
+# Stakeholder
+The primary stakeholder for this project is the investment committee of the Zillow real-estate investment firm. They are interested in understanding the historical trends, seasonality, and predictive patterns in housing market data to identify areas that offer the highest potential for property value growth and rental income.
+
+# Objectives
+Data Collection: Gather and preprocess historical housing data from Zillow, focusing on key metrics such as median home prices, rental yields, and historical price trends.
+
+Exploratory Data Analysis (EDA): Explore the dataset to identify trends, seasonality, and correlations between variables. Visualize key metrics to gain insights into historical market behavior.
+
+Time Series Modeling: Apply time series forecasting techniques (e.g., ARIMA) to model and predict future property prices for selected zip codes.
+
+Ranking and Recommendation: Develop a ranking system based on forecasted price appreciation, rental yields, and risk metrics to recommend the top 5 zip codes for investment.
+
+# Methodology
+Data Loading and Filtering:
+Load the Zillow dataset and filter it for the zip codes we are interested in.
+
+Data Preprocessing:
+Convert the column names representing dates into datetime objects.
+
+Exploratory Data Analysis (EDA) and Visualization:
+Visualize the historical price trends for the selected zip codes. Reshape Data from Wide to Long Format:
+
+Convert the data into a format suitable for time series modeling.
+
+ARIMA Modeling:
+Fit ARIMA models to forecast future housing prices for each selected zip code.
+
+Interpreting Results:
+Evaluate the forecasts and provide a detailed recommendation.
+
+Profit Potential: Consider both the forecasted increase in housing prices and the confidence intervals.
+
+Risk Assessment: Evaluate the stability and trends in the historical data.
+
+Time Horizon: Assess the appropriate investment duration based on the forecasts and market trends.
+
+# Conclusion 
+Summarize our findings and provide final thoughts on the investment opportunities in the selected zip codes.
+
 # Features
 ## Data Preprocessing: 
 Handling missing values, dropping columns, filling columns in preparation of modeling.
