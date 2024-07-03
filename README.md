@@ -12,7 +12,7 @@ Features
 
 ## Clone the repository
 
-git clone https://github.com/your-username/real-estate-investment-analysis.git
+git clone https://github.com/MaggieNjenga/Zillow-Data-Modeling.git
 cd real-estate-investment-analysis
 
 # Usage
