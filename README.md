@@ -1,9 +1,24 @@
 # Zillow-Data-Modeling
-
+<<<<<<< main
 ![istockphoto-170617464-1024x1024-transformed](https://github.com/pkruga/Zillow-Data-Modeling/assets/91247293/5445521d-1a5a-48af-8235-aed013d3171d)
 
 
-This project aims to determine the top 5 best zip codes for real estate investment using Zillow data. The analysis includes data preprocessing, ARIMA model development, evaluation, and recommendations for investment strategies.
+=======
+# Contributors
+Philip Ruga
+
+Leon Maina
+
+Daphine Lucas
+
+Diana Mbuvi
+
+Alex Korir
+
+Margaret Njenga
+
+# Overview
+>>>>>>> mainThis project aims to determine the top 5 best zip codes for real estate investment using Zillow data. The analysis includes data preprocessing, ARIMA model development, evaluation, and recommendations for investment strategies.
 
 # Table of Contents
 Installation
