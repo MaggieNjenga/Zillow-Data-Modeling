@@ -13,7 +13,7 @@ Alex Korir
 
 Margaret Njenga
 
-
+# Overview
 This project aims to determine the top 5 best zip codes for real estate investment using Zillow data. The analysis includes data preprocessing, ARIMA model development, evaluation, and recommendations for investment strategies.
 
 # Table of Contents
